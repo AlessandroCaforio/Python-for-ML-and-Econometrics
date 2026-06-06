@@ -6,7 +6,7 @@ Python has become one of the main programming language worldwide, there is not a
 ## Objectives
 It is important to set goals, mine are about understanding how to implement rigorous and reproducible scientific analysis: 
 - Statistical analysis;
-- Moder machine learning;
+- Modern machine learning;
 - Deep Learning;
 - Econometrics analysis.
 
